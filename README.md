@@ -1,4 +1,4 @@
 # BuildingObjectDetectionWeb
 Building an object detection Model on your own website
 
-Start to build a webiste Using flask
+Building a webiste Using flask and using yolov3 model run on the project 
