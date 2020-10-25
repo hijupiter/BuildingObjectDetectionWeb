@@ -1,4 +1,6 @@
 # BuildingObjectDetectionWeb
-Building an object detection Model on your own website
+## My first flask&ObjectDetection poject
 
-Building a webiste Using flask and using yolov3 model run on the project 
+The project is about buiding a website base on flask  
+Mainly website focus on using Object detection to detect object and classify image that user upload
+
